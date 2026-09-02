@@ -1,0 +1,13 @@
+{
+  "name": "victorycarchatbot",
+  "version": "1.0.0",
+  "description": "Victory car Facebook Messenger chatbot",
+  "type": "module",
+  "scripts": {
+    "fetch:chats": "node --env-file=.env scripts/fetch-conversations.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.8.0"
+  },
+  "license": "MIT"
+}
