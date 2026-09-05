@@ -5,3 +5,6 @@ node_modules
 # Татсан чатанд хэрэглэгчийн хувийн мэдээлэл (нэр, мессеж) байгаа тул
 # GitHub-д БҮҮ оруул.
 data/
+
+# scratch test images
+scratch_*.png
